@@ -1,0 +1,21 @@
+*{
+	font-size: 12px;
+	margin: 0 auto;
+	padding: 0;
+	outline: none;
+}
+body{
+	width: 1200px;
+	margin: 0 auto;
+	color: #242424;
+	font: 14px/1.5 Arial, "Microsoft YaHei";
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+ul li{
+	list-style: none;
+}
